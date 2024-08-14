@@ -1,0 +1,30 @@
+/* .thumbnail {
+  width: 50px;
+} */
+
+.thumbnail-btn {
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.popup-content-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+.close-button-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.close-button {
+  font-size: 30px;
+  border: 0;
+  background-color: transparent;
+  cursor: pointer;
+  margin-bottom: 20px;
+}

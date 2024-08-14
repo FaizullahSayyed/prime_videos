@@ -1,0 +1,22 @@
+.bg-container {
+  background-color: #000000;
+  padding-bottom: 100px;
+  width: 100vw;
+}
+
+.banner {
+  width: 100%;
+}
+
+.sliders-container {
+  padding: 40px;
+}
+
+.slider-container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.heading {
+  color: #ffffff;
+}
